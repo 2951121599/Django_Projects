@@ -1,1 +1,2 @@
 # Django_Projects
+Django_projects 是一个由Django框架开发的项目集合
